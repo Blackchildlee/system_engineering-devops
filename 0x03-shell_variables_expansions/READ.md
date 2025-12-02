@@ -58,6 +58,22 @@ Performing arithmetic operations using shell variables.
 Listing shell variables and functions.
 Basic Bash scripting best practices.
 
+Author
+
+Limpho Moloi – ALX Software Engineering Student
+
+License
+
+This repository is for educational purposes as part of the ALX curriculum.
+
+
+---
+
+If you want, I can also make a **shorter, compact version** suitable for GitHub that fits perfectly at the root of the repo without being too verbose but still professional.  
+
+Do you want me to make that version too?
+
+
 
 
 
