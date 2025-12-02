@@ -7,7 +7,6 @@ This repository contains Bash scripts designed to practice and demonstrate maste
 ---
 
 ## Directory Structure
-
 0x03-shell_variables_expansions/
 ├── 0-alias
 ├── 1-hello_you
@@ -21,9 +20,6 @@ This repository contains Bash scripts designed to practice and demonstrate maste
 ├── 9-divide_and_rule
 ├── 10-love_exponent_breath
 └── README.md
-
-markdown
-Copy code
 
 ---
 
@@ -51,31 +47,18 @@ Copy code
 
 ```bash
 chmod +x <script_name>
-Run scripts directly or source when needed:
-
-bash
-Copy code
 ./1-hello_you
 source ./2-path
-Note: Some scripts require environment variables to be set prior to execution (e.g., TRUEKNOWLEDGE, POWER, DIVIDE, BREATH, LOVE).
 
 Learning Objectives
 Understanding local vs global variables.
-
 Manipulating environment variables such as PATH.
-
 Creating aliases in Bash.
-
 Performing arithmetic operations using shell variables.
-
 Listing shell variables and functions.
-
 Basic Bash scripting best practices.
 
-Author
-Limpho Moloi – ALX Software Engineering Student
 
-License
-This repository is for educational purposes as part of the ALX curriculum.
+
 
 
