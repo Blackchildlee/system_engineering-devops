@@ -1,5 +1,13 @@
 #!/usr/bin/env bash
 
-pkill -SIGTERM -f 7-highlander
-echo "OK"
+# Trap SIGTERM and define what to do when it is received
+trap 'echo "I am invincible!!!"' SIGTERM
+
+# Infinite loop
+while true
+do
+    echo "To infinity and beyond"
+    sleep 2
+done
+
 
