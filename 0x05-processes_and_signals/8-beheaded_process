@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 # Beheaded process
 
-pgreg -f 7-highlander | xargs kill -9
+pgrep -f 7-highlander | xargs kill -9
 
